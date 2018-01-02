@@ -1159,7 +1159,7 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="getDumpsys" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration default="false" name="getDumpsys" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="getDumpsys" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />

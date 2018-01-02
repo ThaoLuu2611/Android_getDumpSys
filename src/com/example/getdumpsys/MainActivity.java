@@ -29,7 +29,7 @@ public class MainActivity extends Activity {
 	private ProgressDialog progressDialog;
     private String sysdump_time;
     String month, day, hour, min, sec;
-    private byte[] buf = new byte[1024];
+    //private byte[] buf = new byte[1024];
     private boolean isDumpstateRunning = false;
     Button copy;
 
