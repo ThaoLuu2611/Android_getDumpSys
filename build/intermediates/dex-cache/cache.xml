@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\code\getDumpsys\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="D:\code\getDumpsys\build\intermediates\pre-dexed\debug\android-support-v4_f6f6f37eaea1fef74f57e055ed7e28bbf4b9fa15.jar" />
+    </item>
+
+</items>

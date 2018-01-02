@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\code\getDumpsys\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:3:5-37
+	android:versionName
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:6:5-30
+		INJECTED from D:\code\getDumpsys\AndroidManifest.xml
+		INJECTED from D:\code\getDumpsys\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:5:5-28
+		INJECTED from D:\code\getDumpsys\AndroidManifest.xml
+		INJECTED from D:\code\getDumpsys\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\code\getDumpsys\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:10:9-38
+	android:minSdkVersion
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:9:9-34
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\code\getDumpsys\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\code\getDumpsys\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.WRITE_MEDIA_STORAGE
+ADDED from D:\code\getDumpsys\AndroidManifest.xml:14:5-78
+	android:name
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:14:22-75
+application
+ADDED from D:\code\getDumpsys\AndroidManifest.xml:16:5-30:19
+	android:label
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:18:9-45
+	android:theme
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:20:9-40
+activity#com.example.getdumpsys.MainActivity
+ADDED from D:\code\getDumpsys\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:22:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\code\getDumpsys\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\code\getDumpsys\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\code\getDumpsys\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\code\getDumpsys\AndroidManifest.xml:27:27-74
